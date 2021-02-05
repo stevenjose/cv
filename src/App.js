@@ -18,7 +18,7 @@ class App extends Component {
           'Tanto como en la banca como en empresas privadas, con más de 9 años de experiencia en área de desarrollo de software, '+
           'participando en todas sus fases. Experiencia en desarrollo de aplicaciones con Angular, Ionic, Vue, NodeJs,'+
           'Java, Laravel, Lumen, Symfony, ReactJs, Elastic Search, Metodologías: Scrum..',
-      address: 'Mirada, Venezuela.',
+      address: 'Miranda, Venezuela.',
       social: [
         {name: 'twitter', url: 'https://twitter.com/gndx'},
         {name: 'github', url: 'https://github.com/gndx'},
@@ -39,8 +39,22 @@ class App extends Component {
       skills: [
         {name: 'HTML5', percentage: '95%'},
         {name: 'CSS', percentage: '90%'},
-        {name: 'JavaScript', percentage: '75%'},
-        {name: 'PHP', percentage: '50%'}
+        {name: 'JavaScript', percentage: '95%'},
+        {name: 'Angular', percentage: '95%'},
+        {name: 'VueJS', percentage: '78%'},
+        {name: 'Ionic', percentage: '85%'},
+        {name: 'ReactJS', percentage: '68%'},
+        {name: 'NodeJs', percentage: '75%'},
+        {name: 'PHP', percentage: '85%'},
+        {name: 'Symfony', percentage: '85%'},
+        {name: 'Laravel', percentage: '85%'},
+        {name: 'ElasticSearch', percentage: '65%'},
+        {name: 'Mysql', percentage: '65%'},
+        {name: 'Postgresql', percentage: '65%'},
+        {name: 'Oracle', percentage: '65%'},
+        {name: 'Mongo', percentage: '55%'},
+        {name: 'Firebase', percentage: '55%'},
+
       ]
     };
 

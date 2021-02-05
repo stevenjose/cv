@@ -20,8 +20,7 @@ class App extends Component {
           'Java, Laravel, Lumen, Symfony, ReactJs, Elastic Search, Metodologías: Scrum..',
       address: 'Miranda, Venezuela.',
       social: [
-        {name: 'twitter', url: 'https://twitter.com/gndx'},
-        {name: 'github', url: 'https://github.com/gndx'},
+        {name: 'github', url: 'https://github.com/stevenjose/'},
         {name: 'linkedin', url: 'https://www.linkedin.com/in/joselopezarias/'}
       ],
       experience: [

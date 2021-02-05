@@ -5,7 +5,7 @@ GResume is a HTML free template to create a minimalist professional resume. Made
 
 ![gresume](https://i.imgur.com/498KeNA.png)
 
-*  Click here to use the [Live Demo](http://dev.gndx.co/gresume-react/)
+*  Click here to use the [Live Demo](https://stevenjose.github.io/cv/)
 
 
 
